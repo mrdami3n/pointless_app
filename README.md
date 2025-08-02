@@ -15,7 +15,10 @@ Definitive, Unambiguous Verdicts: After its exhaustive process, the Encabulator 
 
 Sleek, "High-Tech" Interface: A dark-themed UI styled with custom QSS to give the authentic feel of a top-secret analysis tool from a 90s hacker movie.
 
-📸 Screenshot
+## Screenshot
+<img width="841" height="651" alt="pointless" src="https://github.com/user-attachments/assets/9824467b-4b00-4cc0-ad71-d59dc6ab399e" />
+
+
 
 
 ## Why Does This Exist?
